@@ -41,3 +41,17 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pridavame css</title>
+    <link rel="stylesheet" href="zadanie/css/style.css"> 
+
+</head>
+<body>
+    <h1 class="h_1">ucim sa css</h1>
+
+</body>
+</html>
